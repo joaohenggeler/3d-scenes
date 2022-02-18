@@ -1,6 +1,6 @@
-# 3D Renders
+# 3D Scenes
  
-A collection of 3D renders created using [POV-Ray](https://www.povray.org/).
+A collection of 3D scenes created using [POV-Ray](https://www.povray.org/).
 
 The individual rendered frames are not included for the animations. Use the `BuildVideo.bat` batch file to generate a video after rendering every frame using POV-Ray. This script assumes that [`ffmpeg`](https://www.ffmpeg.org/) exists in the PATH.
 
