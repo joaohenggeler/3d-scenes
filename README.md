@@ -10,7 +10,7 @@ This section showcases the rendered scenes and animations.
 
 ### Ice Cream Factory (1024x768)
 
-<video src="Source/IceCreamFactory/ice_cream_factory.mp4" controls></video>
+[![The "Ice Cream Factory" scene.](Source/IceCreamFactory/ice_cream_factory001.png)](Source/IceCreamFactory/ice_cream_factory.mp4)
 
 ## Tools And Resources 
 
