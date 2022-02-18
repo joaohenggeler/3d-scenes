@@ -2,13 +2,13 @@
  
 A collection of 3D renders created using [POV-Ray](https://www.povray.org/).
 
-The individual rendered frames are not included for any animations. Use the `BuildVideo.bat` batch file to generate a video after rendering every frame using POV-Ray. This script assumes that [`ffmpeg`](https://www.ffmpeg.org/) exists in the PATH.
+The individual rendered frames are not included for the animations. Use the `BuildVideo.bat` batch file to generate a video after rendering every frame using POV-Ray. This script assumes that [`ffmpeg`](https://www.ffmpeg.org/) exists in the PATH.
 
 ## Gallery
 
 This section showcases the rendered scenes and animations.
 
-### Ice Cream Factory (1024x768)
+### [Ice Cream Factory (1024x768)](Source/IceCreamFactory/ice_cream_factory.pov)
 
 Click on the image to view the animation.
 
