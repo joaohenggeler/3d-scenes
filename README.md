@@ -25,3 +25,5 @@ This section lists some useful tools and resources that were used to create each
 * [Friedrich A. Lohmüller's POV-Ray Tutorials](http://www.f-lohmueller.de/pov_tut/pov__eng.htm).
 
 * [Mike Williams' Isosurface Tutorial](https://web.archive.org/web/20200129140707/http://www.econym.demon.co.uk/isotut/printable.htm).
+
+* [Leandro Heck's POV-Ray Syntax Highlighter For Sublime Text](https://github.com/leoheck/sublime-povray).
